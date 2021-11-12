@@ -1,0 +1,27 @@
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install nodejs
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install lolcat
+
+pip install bs4
+
+pip install npm
+
+git clone https://github.com/Kabir4826/KABIR-SINGH
+
+cd KABIR-SINGH
+
+ls
+
+python2 Kabir.py
